@@ -1,3 +1,4 @@
+# EXPERIMENT-08
 # ALGORITHIM FOR QR-DECOMPOSITION
 ## AIM :
 
@@ -18,10 +19,10 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
     ![eqn3](./ex3.jpg)
 
 3.	Obtain the Q matrix   
-    ![eqn4](./ex1.jpg)
+      ![eqn4](./ex1.jpg)
 4.	Construct the upper triangular matrix R
 
-   ![eqn5](./ex2.jpg)
+      ![eqn5](./ex2.jpg)
 
 
 
